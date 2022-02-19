@@ -4,7 +4,7 @@
 
 In this scenario, we will learn to install and
 uninstall Chaos Mesh. The current environment running is 
-ubuntu 20.04.
+ubuntu 20.04. with 2 node cluster set up.
 
 ## Learning Objective
 
