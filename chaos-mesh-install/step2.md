@@ -23,7 +23,7 @@ The above command lists the latest version of chaos mesh. To list historical ver
 
 ### step 3: create namespace to install workloads of Chaos Mesh
 
-`kubectl create ns chaos-mesh`
+`kubectl create ns chaos-mesh`{{execute}}
 
 ### step 4: install chaos-mesh in different environments
 
