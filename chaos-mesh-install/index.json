@@ -2,7 +2,7 @@
   "title": "Install and Uninstall Chaos Mesh",
   "description": "A scenario to install and uninstall chaos mesh.",
   "difficulty": "Beginner",
-  "time": "5 minutes",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
