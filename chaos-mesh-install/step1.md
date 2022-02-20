@@ -44,6 +44,6 @@ To uninstall Chaos Mesh, run the following command,
 
 `curl -sSL https://mirrors.chaos-mesh.org/v2.1.3/install.sh | bash -s -- --template | kubectl delete -f -`{{execute}}
 
-additionally, you can also delete the `caos-testing` namespace to directly remove Chaos Mesh.
+additionally, you can also delete the `chaos-testing` namespace to directly remove Chaos Mesh.
 
 `kubectl delete ns chaos-testing`{{execute}}
